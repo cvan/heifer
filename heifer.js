@@ -7,7 +7,6 @@ var spawn = require('child_process').spawn;
 var http = require('http');
 var urlparse = require('url');
 
-
 // Command line signature
 program
   .version('0.0.2')
